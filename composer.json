@@ -1,7 +1,21 @@
 {
-  "autoload": {
-    "psr-4": {
-      "wpai_acf_add_on\\": "src"
+    "name": "albertoformi/fR9z3I4PWXT3qx-allimp-acf",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/albertoformi/fR9z3I4PWXT3qx-allimp-acf",
+    "authors": [
+      {
+        "name": "allimp acf",
+        "homepage": "https://github.com/albertoformi/fR9z3I4PWXT3qx-allimp-acf"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=8.0"
+    },
+    "autoload": {
+      "psr-4": {
+        "wpai_acf_add_on\\": "src"
+      }
     }
   }
-}
